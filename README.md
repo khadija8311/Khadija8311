@@ -24,15 +24,14 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 🏆 Certifications
+### 📈 Analytics Skills
 
-✔ Python for Beginners – OpenCV University
-
-✔ Introduction to Data Analytics on Google Cloud – Coursera
-
-✔ BigQuery for Data Analyst – Coursera
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00A8E8?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-6A1B9A?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-00897B?style=for-the-badge)
 
 ---
 
