@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Bachelor's Graduate (2024)
+🎓 Bachelor's Graduate (2024) BSCS
 
 📊 Passionate about transforming raw data into meaningful insights
 
@@ -24,40 +24,36 @@
 - Power BI
 - Python for Data Analysis
 
-💼 Looking for Data Analyst Opportunities
-
-📫 Reach me at:
-**syedakhadija09876@gmail.com**
-
 ---
 
 ## 🚀 Skills & Tools
 
-### Data Analysis
+### 📊 Data Analysis & BI
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Libraries & Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
----
+### 🐍 Programming & Libraries
 
-## 📂 Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 📊 Sales & Profit Analysis Dashboard
-Interactive Excel dashboard analyzing revenue, cost, profit, product performance, and customer segments.
+### 📈 Analytics Skills
 
-### ☕ Coffee Shop Sales Dashboard
-Excel dashboard built using 9,972 sales transactions with dynamic charts, KPIs, and slicers.
-
-
----
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-00A8E8?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-6A1B9A?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-00897B?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-795548?style=for-the-badge)
+![Pivot Charts](https://img.shields.io/badge/Pivot_Charts-5D4037?style=for-the-badge)
 
 ## 🏆 Certifications
 
@@ -69,30 +65,20 @@ Excel dashboard built using 9,972 sales transactions with dynamic charts, KPIs, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/syeda-khadija-84494222a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:syedakhadija09876@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
----
+📧 **Email:** syedakhadija09876@gmail.com
 
 
