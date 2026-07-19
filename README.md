@@ -7,36 +7,6 @@
 
 ---
 
-## 🚀 Skills & Tools
-
-### 📊 Data Analysis & BI
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
-### 🐍 Programming & Libraries
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### 📈 Analytics Skills
-
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-0A66C2?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-0A66C2?style=for-the-badge)
-![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-1565C0?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-1976D2?style=for-the-badge)
-![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-1E88E5?style=for-the-badge)
-![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-42A5F5?style=for-the-badge)
-![Reporting](https://img.shields.io/badge/Business_Reporting-5C6BC0?style=for-the-badge)
-
----
-
 
 
 
